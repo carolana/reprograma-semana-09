@@ -7,7 +7,7 @@ In the club, you see, see
 
 Essa semana tivemos como missão criar uma API que retornasse nossa lista de contatinhos :telephone_receiver:
 
-![gif "lady gaga telephone"](exercicio-casa/img/giphy.gif)
+![gif "lady gaga telephone"](img/giphy.gif)
 
 ## Instruções
 
@@ -37,5 +37,4 @@ Essa semana tivemos como missão criar uma API que retornasse nossa lista de con
 
 - {DELETE} contatinhos/id: Uma mensagem de sucesso irá aparecer e retornará a lista de contatinhos sem o iD excluído.
 
-
-![gif "beyonce and lady gaga telephone"](exercicio-casa/img/giphygaga.gif)
+![gif "beyonce and lady gaga telephone"](img/giphygaga.gif)
