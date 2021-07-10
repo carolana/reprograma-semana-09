@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "nome": "Bey",
+      "celular": "(11)99178630",
+      "redesSociais": "@beyonce"
+    },
+    {
+      "id": "2",
+      "nome": "Riri",
+      "celular": "(21)983729320",
+      "redesSociais": "@badgalriri"
+    },
+    {
+        "id": "3",
+        "nome": "Mother Monster",
+        "celular": "(11) 98723-8848",
+        "redesSociais": "@ladygaga"
+    },
+    {
+        "id": "4",
+        "nome": "John Mayer",
+        "celular": "(43) 3747-7384",
+        "redesSociais": "@johnmayer"
+    },
+    {
+        "id": "5",
+        "nome": "Selena Gomez",
+        "celular": "(21) 98727-8900",
+        "redesSociais": "@selenagomez"
+    }
+  ]
